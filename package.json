@@ -17,10 +17,7 @@
     "url": "https://github.com/olegkrop/goit-js-hw-09/issues"
   },
   "dependencies": {
-    "@vimeo/player": "^2.18.0",
-    "lodash.throttle": "^4.1.1",
-    "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.12.1"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
@@ -28,7 +25,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js",
-  "author": ""
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
