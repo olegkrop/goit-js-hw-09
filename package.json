@@ -1,20 +1,20 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
-  "description": "",
-  "homepage": "https://olegkrop.github.io/goit-js-hw-08",
+  "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
+  "homepage": "https://olegkrop.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olegkrop/goit-js-hw-08.git"
+    "url": "git+https://github.com/olegkrop/goit-js-hw-09.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olegkrop/goit-js-hw-08/issues"
+    "url": "https://github.com/olegkrop/goit-js-hw-09/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
@@ -28,5 +28,7 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "index.js",
+  "author": ""
 }
