@@ -21,6 +21,7 @@ function onSubmit(event) {
       });
     delay += delayStep;
   }
+  event.currentTarget.reset();
 }
 
 function createPromise(position, delay) {
